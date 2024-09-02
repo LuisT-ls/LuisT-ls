@@ -20,10 +20,6 @@ Sou um entusiasta de tecnologia, desenvolvedor web e estudante de psicologia. Am
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LuisT-ls&show_icons=true&theme=radical)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisT-ls&layout=compact&theme=radical)
 
-## Snake eating my contributions
-
-![snake gif](https://github.com/LuisT-ls/LuisT-ls/blob/output/github-contribution-grid-snake.svg)
-
 ## Projetos em Destaque
 
 - [**Projeto Energia Solar**](https://github.com/LuisT-ls/Projeto-Energia-Solar): Sistema completo para gerenciamento e monitoramento de energia solar.
