@@ -1,6 +1,6 @@
 # Olá! Eu sou o Luís Teixeira 👋
 
-Sou um entusiasta de tecnologia, desenvolvedor web e estudante de psicologia. Amo criar projetos que combinam tecnologia e criatividade, e estou sempre em busca de aprender algo novo.
+Sou um entusiasta de tecnologia, desenvolvedor web e estudante da Universidade Federal da Bahia. Amo criar projetos que combinam tecnologia e criatividade, e estou sempre em busca de aprender algo novo.
 
 ## Tecnologias e Ferramentas
 
