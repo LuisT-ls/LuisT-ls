@@ -24,7 +24,7 @@ Sou um entusiasta de tecnologia, desenvolvedor web e estudante de psicologia. Am
 
 - [**Projeto Energia Solar**](https://github.com/LuisT-ls/Projeto-Energia-Solar): Sistema completo para gerenciamento e monitoramento de energia solar.
 - [**Conversor de Moedas**](https://github.com/LuisT-ls/conversor-de-moedas): Ferramenta para conversão de moedas com taxas de câmbio em tempo real.
-- [**Tabela Periódica Interativa**](https://github.com/LuisT-ls/tabela-periodica): Tabela periódica com recursos interativos, animações e modos educacionais.
+- [**Tabela Periódica**](https://github.com/LuisT-ls/tabela-periodica): Tabela periódica com recursos interativos, animações e modos comparativos.
 - [**Jogo de Caça-Palavras**](https://github.com/LuisT-ls/caca-palavras): Um jogo de caça-palavras onde o usuário pode customizar sua experiência.
 
 ## Vamos Conectar!
