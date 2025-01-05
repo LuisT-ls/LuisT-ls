@@ -44,8 +44,8 @@ Olá! Sou um desenvolvedor web em formação e estudante da Universidade Federal
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisT-ls&repo=Projeto-Energia-Solar&theme=tokyonight)](https://github.com/LuisT-ls/Projeto-Energia-Solar)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisT-ls&repo=conversor-de-moedas&theme=tokyonight)](https://github.com/LuisT-ls/conversor-de-moedas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisT-ls&repo=fakenews&theme=tokyonight)](https://github.com/LuisT-ls/fakenews)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisT-ls&repo=Projeto-PLN&theme=tokyonight)](https://github.com/LuisT-ls/Projeto-PLN)
 
 </div>
 
