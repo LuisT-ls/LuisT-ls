@@ -88,8 +88,6 @@ Olá! Sou um desenvolvedor web em formação e estudante da Universidade Federal
 ### 💭 Pensamento do Dia
 > "O código é como poesia - cada linha conta uma história, cada função resolve um problema, e juntas criam algo extraordinário."
 
-![Snake animation](https://raw.githubusercontent.com/LuisT-ls/LuisT-ls/output/github-contribution-grid-snake.svg)
-
 **Visitantes**  
 ![Visitor Count](https://profile-counter.glitch.me/LuisT-ls/count.svg)
 
