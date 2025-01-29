@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D36F7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web;Cientista+de+Dados+em+Forma%C3%A7%C3%A3o;Estudante+de+Tecnologia;Apaixonado+por+Inova%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
-![Snake animation](https://github.com/LuisT-ls/LuisT-ls/blob/output/assets/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LuisT-ls/LuisT-ls/blob/main/assets/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -20,6 +20,7 @@ Olá! Sou um desenvolvedor web, atualmente estudante da Universidade Federal da 
 ## 🛠️ Stack Tecnológico
 
 ### Front-end
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -28,12 +29,14 @@ Olá! Sou um desenvolvedor web, atualmente estudante da Universidade Federal da 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Data Science & Backend
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Ferramentas & Ambiente
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -58,16 +61,19 @@ Olá! Sou um desenvolvedor web, atualmente estudante da Universidade Federal da 
 ### 🏆 Principais Projetos
 
 1. **[Detector de Fake News](https://github.com/LuisT-ls/fakenews)**
+
    - Sistema de análise de notícias utilizando NLP
    - Tecnologias: Python, Scikit-learn, NLTK
    - Features: Classificação automática, análise de sentimentos, visualização de dados
 
 2. **[Tabela Periódica Interativa](https://github.com/LuisT-ls/tabela-periodica)**
+
    - Interface moderna com Bootstrap e JavaScript
    - Animações suaves e design responsivo
    - Visualizações interativas das propriedades químicas
 
 3. **[Análise de Dados Climáticos](https://github.com/LuisT-ls/clima-analise)**
+
    - Visualização de dados meteorológicos
    - Análise preditiva com Python
    - Dashboard interativo com Plotly
