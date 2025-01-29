@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D36F7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web;Cientista+de+Dados+em+Forma%C3%A7%C3%A3o;Estudante+de+Tecnologia;Apaixonado+por+Inova%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
-![Snake animation](https://github.com/LuisT-ls/LuisT-ls/blob/main/assets/github-contribution-grid-snake.svg)
-
 </div>
 
 ## 🚀 Sobre Mim
