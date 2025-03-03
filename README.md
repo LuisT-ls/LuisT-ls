@@ -60,26 +60,27 @@ Olá! Sou um desenvolvedor web, atualmente estudante da Universidade Federal da 
 
 1. **[Detector de Fake News](https://github.com/LuisT-ls/fakenews)**
 
-   - Sistema de análise de notícias utilizando NLP
-   - Tecnologias: Python, Scikit-learn, NLTK
-   - Features: Classificação automática, análise de sentimentos, visualização de dados
+   - Uma aplicação web que utiliza Inteligência Artificial e a API do Google Gemini para detectar e analisar possíveis fake news em tempo real
+   - Tecnologias: HTML5, CSS3, JavaScript (Vanilla), Service Workers para PWA, Google Gemini API
+   - Features: Verificação de credibilidade de textos, Identificação de padrões suspeitos, Sugestões de fontes confiáveis
 
-2. **[Tabela Periódica Interativa](https://github.com/LuisT-ls/tabela-periodica)**
+2. **[Histórico Universitário UFBA](https://github.com/LuisT-ls/Historico-Universitario)**
 
-   - Interface moderna com Bootstrap e JavaScript
-   - Animações suaves e design responsivo
-   - Visualizações interativas das propriedades químicas
+   - Registrar e gerenciar disciplinas cursadas
+   - Acompanhar o progresso em direção à formatura
+   - Calcular médias e carga horária total
 
-3. **[Análise de Dados Climáticos](https://github.com/LuisT-ls/clima-analise)**
+3. **[Calculadora de Estatística Online](https://github.com/LuisT-ls/QUARTIL)**
 
-   - Visualização de dados meteorológicos
-   - Análise preditiva com Python
-   - Dashboard interativo com Plotly
+   - Medidas de Posição: Média, Mediana e Moda
+   - Medidas de Dispersão: Desvio Padrão, Variância, Coeficiente de Variação, Assimetria e Curtose
+   - Quartis: Q1, Q2, Q3, Amplitude do Interquartil (IQR) e Média das Juntas
 
-4. **[Portfólio Web](https://github.com/LuisT-ls/portfolio)**
-   - Design moderno com Bootstrap
-   - Animações personalizadas
-   - Totalmente responsivo
+4. **[Scanner Avançado de Vulnerabilidades XSS](https://github.com/LuisT-ls/Code-XSS)**
+
+   - Um scanner de vulnerabilidades XSS (Cross-Site Scripting) e SQL Injection
+   - Desenvolvido inteiramente em Python
+   - Projetada para auxiliar profissionais de segurança e desenvolvedores na identificação de possíveis vulnerabilidades em aplicações web.
 
 ## 💡 Áreas de Interesse
 
