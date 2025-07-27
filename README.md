@@ -110,7 +110,4 @@ Olá! Sou um desenvolvedor web, atualmente estudante da Universidade Federal da 
 ### 💭 Pensamento do Dia
 > "A verdadeira descoberta não está em encontrar novas terras, mas em ver com novos olhos."
 
-**Visitantes**  
-![Visitor Count](https://profile-counter.glitch.me/LuisT-ls/count.svg)
-
 </div>
