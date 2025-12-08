@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D36F7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web;Estudante+de+Tecnologia;Apaixonado+por+Inova%C3%A7%C3%A3o;Full+Stack+Developer)](https://git.io/typing-svg)
 
+![Profile Views](https://komarev.com/ghpvc/?username=LuisT-ls&color=9D36F7&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL)
+
 </div>
 
 ## 🚀 Sobre Mim
@@ -44,22 +46,62 @@ Olá! Sou um desenvolvedor web, atualmente estudante da Universidade Federal da 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisT-ls&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub de Luís Teixeira"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisT-ls&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas por Luís Teixeira"/>
+  
+### 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=LuisT-ls&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7)
+
+### 📈 Estatísticas e Streak
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuisT-ls&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=600)
+
+</div>
+
+<div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
+  
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=LuisT-ls&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide_title=false&card_width=400)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisT-ls&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide_title=false&card_width=400)
+
+</div>
+
 </div>
 
 ## 🐍 Contribuições do GitHub
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuisT-ls&theme=tokyo-night&hide_border=true" alt="Gráfico de contribuições do GitHub de Luís Teixeira"/>
+  
+![Snake animation](https://github.com/LuisT-ls/LuisT-ls/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  
+![Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=LuisT-ls&theme=tokyo-night&hide_border=true&area=true&custom_title=Gráfico%20de%20Contribuições&height=300)
+
 </div>
 
 ## 🌟 Projetos em Destaque
 
-<div align="center">
+<div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisT-ls&repo=Explorador-dns&theme=tokyonight&hide_border=true)](https://github.com/LuisT-ls/Explorador-dns)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisT-ls&repo=Projeto-PLN&theme=tokyonight&hide_border=true)](https://github.com/LuisT-ls/Projeto-PLN)
+<a href="https://github.com/LuisT-ls/Explorador-dns">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisT-ls&repo=Explorador-dns&theme=tokyonight&hide_border=true&show_owner=true" alt="Explorador DNS" style="max-width: 400px;"/>
+</a>
+
+<a href="https://github.com/LuisT-ls/Projeto-PLN">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisT-ls&repo=Projeto-PLN&theme=tokyonight&hide_border=true&show_owner=true" alt="Projeto PLN" style="max-width: 400px;"/>
+</a>
+
+</div>
+
+<div align="center" style="margin-top: 20px;">
+
+### 📌 Mais Projetos
+
+[![Detector de Fake News](https://github-readme-stats.vercel.app/api/pin/?username=LuisT-ls&repo=fakenews&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/LuisT-ls/fakenews)
+[![Histórico Universitário](https://github-readme-stats.vercel.app/api/pin/?username=LuisT-ls&repo=Historico-Universitario&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/LuisT-ls/Historico-Universitario)
 
 </div>
 
@@ -91,14 +133,23 @@ Olá! Sou um desenvolvedor web, atualmente estudante da Universidade Federal da 
 
 ## 💡 Áreas de Interesse
 
-- 🌐 Desenvolvimento Web Full Stack
-- 📱 Design Responsivo
-- 🔐 Segurança Web
-- ⚡ Performance e Otimização
-- 🎨 UX/UI Design
-- 🤖 IA
-- 🤖 Agentes de IA
-- 🤖 Automação com IA
+<div align="center">
+
+![Web Development](https://img.shields.io/badge/Web%20Development-000000?style=for-the-badge&logo=web&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-FF6B6B?style=for-the-badge&logo=css3&logoColor=white)
+![Security](https://img.shields.io/badge/Security-4ECDC4?style=for-the-badge&logo=security&logoColor=white)
+![Performance](https://img.shields.io/badge/Performance-FFE66D?style=for-the-badge&logo=speedtest&logoColor=black)
+![UX/UI](https://img.shields.io/badge/UX%2FUI-95E1D3?style=for-the-badge&logo=adobe&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6B9D?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+</div>
+
+- 🌐 **Desenvolvimento Web Full Stack** - Criando soluções completas do front-end ao back-end
+- 📱 **Design Responsivo** - Interfaces que se adaptam a qualquer dispositivo
+- 🔐 **Segurança Web** - Desenvolvendo com foco em segurança e boas práticas
+- ⚡ **Performance e Otimização** - Aplicações rápidas e eficientes
+- 🎨 **UX/UI Design** - Experiências de usuário intuitivas e atraentes
+- 🤖 **IA e Automação** - Explorando o potencial da Inteligência Artificial
 
 ## 📫 Vamos Conectar!
 
@@ -107,8 +158,10 @@ Olá! Sou um desenvolvedor web, atualmente estudante da Universidade Federal da 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-tei/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luis.tei)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luishg213@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuisT-ls)
 
 </div>
+
 
 ---
 
@@ -116,5 +169,38 @@ Olá! Sou um desenvolvedor web, atualmente estudante da Universidade Federal da 
   
 ### 💭 Pensamento do Dia
 > "A verdadeira descoberta não está em encontrar novas terras, mas em ver com novos olhos."
+
+---
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LuisT-ls&theme=tokyo-night&hide_border=true&area=true&height=300&custom_title=Atividade%20no%20GitHub)
+
+</div>
+
+<div align="center" style="margin-top: 20px;">
+
+### 📊 Resumo de Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisT-ls&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&line_height=24&card_width=500)
+
+</div>
+
+<div align="center" style="margin-top: 20px;">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisT-ls&layout=donut-vertical&langs_count=10&theme=tokyonight&hide_border=true&card_width=500)
+
+</div>
+
+---
+
+<div align="center">
+  
+**⭐ Se gostou do meu perfil, considere dar uma estrela nos repositórios que mais te interessam!**
+
+[![GitHub followers](https://img.shields.io/github/followers/LuisT-ls?label=Seguidores&style=social)](https://github.com/LuisT-ls)
+[![GitHub stars](https://img.shields.io/github/stars/LuisT-ls?label=Estrelas&style=social)](https://github.com/LuisT-ls)
+
+</div>
 
 </div>
