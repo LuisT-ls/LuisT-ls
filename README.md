@@ -44,8 +44,8 @@ Olá! Sou um desenvolvedor web, atualmente estudante da Universidade Federal da 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisT-ls&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Luís Teixeira"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisT-ls&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas por Luís Teixeira"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisT-ls&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub de Luís Teixeira"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisT-ls&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas por Luís Teixeira"/>
 </div>
 
 ## 🐍 Contribuições do GitHub
@@ -58,8 +58,8 @@ Olá! Sou um desenvolvedor web, atualmente estudante da Universidade Federal da 
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisT-ls&repo=Explorador-dns&theme=tokyonight)](https://github.com/LuisT-ls/Explorador-dns)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisT-ls&repo=Projeto-PLN&theme=tokyonight)](https://github.com/LuisT-ls/Projeto-PLN)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisT-ls&repo=Explorador-dns&theme=tokyonight&hide_border=true)](https://github.com/LuisT-ls/Explorador-dns)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisT-ls&repo=Projeto-PLN&theme=tokyonight&hide_border=true)](https://github.com/LuisT-ls/Projeto-PLN)
 
 </div>
 
