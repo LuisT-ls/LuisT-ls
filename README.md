@@ -45,21 +45,7 @@ Olá! Sou um desenvolvedor web, atualmente estudante da Universidade Federal da 
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  
-### 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=LuisT-ls&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7)
-
-### 📈 Estatísticas e Streak
-
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuisT-ls&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=600)
-
-</div>
-
-<div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
+<div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
   
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=LuisT-ls&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide_title=false&card_width=400)
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisT-ls&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide_title=false&card_width=400)
@@ -69,12 +55,6 @@ Olá! Sou um desenvolvedor web, atualmente estudante da Universidade Federal da 
 </div>
 
 ## 🐍 Contribuições do GitHub
-
-<div align="center">
-  
-![Snake animation](https://github.com/LuisT-ls/LuisT-ls/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 <div align="center" style="margin-top: 20px;">
   
@@ -86,22 +66,13 @@ Olá! Sou um desenvolvedor web, atualmente estudante da Universidade Federal da 
 
 <div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
 
-<a href="https://github.com/LuisT-ls/Explorador-dns">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisT-ls&repo=Explorador-dns&theme=tokyonight&hide_border=true&show_owner=true" alt="Explorador DNS" style="max-width: 400px;"/>
+<a href="https://github.com/LuisT-ls/interpreta-python">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisT-ls&repo=interpreta-python&theme=tokyonight&hide_border=true&show_owner=true" alt="Interpreta Python" style="max-width: 400px;"/>
 </a>
 
-<a href="https://github.com/LuisT-ls/Projeto-PLN">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisT-ls&repo=Projeto-PLN&theme=tokyonight&hide_border=true&show_owner=true" alt="Projeto PLN" style="max-width: 400px;"/>
+<a href="https://github.com/LuisT-ls/icti-share">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisT-ls&repo=icti-share&theme=tokyonight&hide_border=true&show_owner=true" alt="ICTI Share" style="max-width: 400px;"/>
 </a>
-
-</div>
-
-<div align="center" style="margin-top: 20px;">
-
-### 📌 Mais Projetos
-
-[![Detector de Fake News](https://github-readme-stats.vercel.app/api/pin/?username=LuisT-ls&repo=fakenews&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/LuisT-ls/fakenews)
-[![Histórico Universitário](https://github-readme-stats.vercel.app/api/pin/?username=LuisT-ls&repo=Historico-Universitario&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/LuisT-ls/Historico-Universitario)
 
 </div>
 
@@ -171,26 +142,6 @@ Olá! Sou um desenvolvedor web, atualmente estudante da Universidade Federal da 
 > "A verdadeira descoberta não está em encontrar novas terras, mas em ver com novos olhos."
 
 ---
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LuisT-ls&theme=tokyo-night&hide_border=true&area=true&height=300&custom_title=Atividade%20no%20GitHub)
-
-</div>
-
-<div align="center" style="margin-top: 20px;">
-
-### 📊 Resumo de Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisT-ls&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&line_height=24&card_width=500)
-
-</div>
-
-<div align="center" style="margin-top: 20px;">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisT-ls&layout=donut-vertical&langs_count=10&theme=tokyonight&hide_border=true&card_width=500)
-
-</div>
 
 ---
 
