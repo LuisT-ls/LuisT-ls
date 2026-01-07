@@ -47,10 +47,8 @@ Olá! Sou um desenvolvedor web, atualmente estudante da Universidade Federal da 
 
 <div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
   
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=LuisT-ls&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide_title=false&card_width=400)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisT-ls&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide_title=false&card_width=400)
-
-</div>
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=LuisT-ls&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisT-ls&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -59,6 +57,8 @@ Olá! Sou um desenvolvedor web, atualmente estudante da Universidade Federal da 
 <div align="center" style="margin-top: 20px;">
   
 ![Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=LuisT-ls&theme=tokyo-night&hide_border=true&area=true&custom_title=Gráfico%20de%20Contribuições&height=300)
+<br/>
+![Snake Animation](assets/github-contribution-grid-snake.svg)
 
 </div>
 
