@@ -9,15 +9,20 @@ jobs:
   generate:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+    
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate Snake Animation
-        uses: Platane/snk@v2
+        uses: Platane/snk@v3
         with:
           github_user_name: LuisT-ls
-          svg_output_path: assets/github-contribution-grid-snake.svg
+          outputs: |
+            assets/github-contribution-grid-snake.svg
+            assets/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Commit and push changes
         run: |
