@@ -55,7 +55,7 @@ Olá! Sou um desenvolvedor web, atualmente estudante da Universidade Federal da 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuisT-ls&theme=tokyo-night&hide_border=true&area=true&custom_title=Gráfico%20de%20Contribuições&height=300" width="100%" alt="Gráfico de Contribuições" />
   <br/>
-  <img src="assets/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/LuisT-ls/LuisT-ls/main/assets/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
 ## 🌟 Projetos em Destaque
