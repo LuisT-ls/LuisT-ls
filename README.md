@@ -46,8 +46,8 @@ Olá! Sou um desenvolvedor web, atualmente estudante da Universidade Federal da 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisT-ls&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisT-ls&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="180px" />
+  <img src="https://github-readme-stats-kappa.vercel.app/api?username=LuisT-ls&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" height="180px" />
+  <img src="https://github-readme-stats-kappa.vercel.app/api/top-langs/?username=LuisT-ls&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="180px" />
 </div>
 
 ## 🐍 Contribuições do GitHub
@@ -55,17 +55,17 @@ Olá! Sou um desenvolvedor web, atualmente estudante da Universidade Federal da 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuisT-ls&theme=tokyo-night&hide_border=true&area=true&custom_title=Gráfico%20de%20Contribuições&height=300" width="100%" alt="Gráfico de Contribuições" />
   <br/>
-  <img src="https://raw.githubusercontent.com/LuisT-ls/LuisT-ls/main/assets/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="assets/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
 ## 🌟 Projetos em Destaque
 
 <div align="center">
   <a href="https://github.com/LuisT-ls/interpreta-python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisT-ls&repo=interpreta-python&theme=tokyonight&hide_border=true&show_owner=true" alt="Interpreta Python" height="180px" />
+    <img src="https://github-readme-stats-kappa.vercel.app/api/pin/?username=LuisT-ls&repo=interpreta-python&theme=tokyonight&hide_border=true&show_owner=true" alt="Interpreta Python" height="180px" />
   </a>
   <a href="https://github.com/LuisT-ls/icti-share">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisT-ls&repo=icti-share&theme=tokyonight&hide_border=true&show_owner=true" alt="ICTI Share" height="180px" />
+    <img src="https://github-readme-stats-kappa.vercel.app/api/pin/?username=LuisT-ls&repo=icti-share&theme=tokyonight&hide_border=true&show_owner=true" alt="ICTI Share" height="180px" />
   </a>
 </div>
 
