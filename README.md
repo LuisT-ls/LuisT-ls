@@ -27,6 +27,7 @@ Olá! Sou um desenvolvedor web, atualmente estudante da Universidade Federal da 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -71,11 +72,11 @@ Olá! Sou um desenvolvedor web, atualmente estudante da Universidade Federal da 
 
 ### 🏆 Principais Projetos
 
-1. **[Detector de Fake News](https://github.com/LuisT-ls/fakenews)**
+1. **[Fake Lumos](https://github.com/LuisT-ls/fakelumos1)**
 
-   - Uma aplicação web que utiliza Inteligência Artificial e a API do Google Gemini para detectar e analisar possíveis fake news em tempo real
-   - Tecnologias: HTML5, CSS3, JavaScript (Vanilla), Service Workers para PWA, Google Gemini API
-   - Features: Verificação de credibilidade de textos, Identificação de padrões suspeitos, Sugestões de fontes confiáveis
+   - Ferramenta web moderna que utiliza IA (Google Gemini) para analisar e detectar desinformação em tempo real, promovendo uma comunicação consciente.
+   - Tecnologias: Next.js 16, React 19, TypeScript, Tailwind CSS, Google Gemini API, next-intl
+   - Features: Análise detalhada com score de confiabilidade, suporte multi-idiomas (PT, EN, ES) e recursos avançados de acessibilidade (OpenDyslexic, Alto Contraste).
 
 2. **[Histórico Universitário UFBA](https://github.com/LuisT-ls/Historico-Universitario)**
 
