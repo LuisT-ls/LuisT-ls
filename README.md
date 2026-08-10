@@ -68,9 +68,16 @@ Olá! Sou um desenvolvedor web, atualmente estudante da Universidade Federal da 
   <a href="https://github.com/LuisT-ls/interpreta-python">
     <img src="https://github-readme-stats-kappa.vercel.app/api/pin/?username=LuisT-ls&repo=interpreta-python&theme=tokyonight&hide_border=true&show_owner=true" alt="Interpreta Python" height="180px" />
   </a>
-  <a href="https://github.com/LuisT-ls/icti-share">
-    <img src="https://github-readme-stats-kappa.vercel.app/api/pin/?username=LuisT-ls&repo=icti-share&theme=tokyonight&hide_border=true&show_owner=true" alt="ICTI Share" height="180px" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://historicoacademico.com.br">
+    <img src="https://img.shields.io/badge/HAO-Hist%C3%B3rico%20Acad%C3%AAmico%20Online-6c5ce7?style=for-the-badge&logo=vercel&logoColor=white" alt="HAO" />
   </a>
+  <br/>
+  <sub>📚 Plataforma de gestão acadêmica com mais de 2.000 usuários · Modelo freemium via Stripe · Repositório privado (produto em produção)</sub>
 </div>
 
 ### 🏆 Principais Projetos
