@@ -12,7 +12,7 @@
 
 Olá! Sou um desenvolvedor web, atualmente estudante da Universidade Federal da Bahia. Minha paixão está em combinar criatividade com tecnologia para desenvolver soluções inovadoras. Busco constantemente aprender novas tecnologias e metodologias para criar aplicações web intuitivas e funcionais.
 
-🎓 **Formação**: Graduado em Ciência, Tecnologia e Inovação - UFBA 
+🎓 **Formação**: Graduado em Ciência, Tecnologia e Inovação - UFBA  
 💻 **Foco**: Desenvolvimento Web Full Stack  
 🌱 **Aprendendo**: Novas tecnologias web e frameworks  
 🎯 **Objetivo**: Desenvolver soluções tecnológicas que transformem ideias em realidade
