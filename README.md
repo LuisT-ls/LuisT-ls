@@ -72,13 +72,13 @@ Olá! Sou desenvolvedor full stack, atuando como MEI há mais de dois anos. Minh
 
 ### 🏆 Outros Projetos
 
-1. **[Fake Lumos](https://github.com/LuisT-ls/fakelumos1)** — Verificador de desinformação em tempo real com IA (Google Gemini), score de confiabilidade e acessibilidade avançada. `Next.js · React 19 · TypeScript · Google Gemini API`
+1. **[Garranchos](https://github.com/LuisT-ls/excalidraw)** — Whiteboard online inspirado no Excalidraw, com desenho estilo "mão livre", múltiplos quadros persistidos, exportação para PNG/SVG/JSON e link compartilhável sem backend. [Demo](https://garranchos.vercel.app) · `Next.js · TypeScript · Canvas API · rough.js · Zustand`
 
-2. **[QUARTIL](https://github.com/LuisT-ls/QUARTIL)** — Calculadora de estatística online: médias, desvio padrão, quartis e exportação de dados. `Next.js · TypeScript · Chart.js`
+2. **[Fake Lumos](https://github.com/LuisT-ls/fakelumos1)** — Verificador de desinformação em tempo real com IA (Google Gemini), score de confiabilidade e acessibilidade avançada. `Next.js · React 19 · TypeScript · Google Gemini API`
 
-3. **[Interpreta Python](https://github.com/LuisT-ls/interpreta-python)** — Interpretador Python que executa código direto no navegador via Pyodide (WebAssembly).
+3. **[QUARTIL](https://github.com/LuisT-ls/QUARTIL)** — Calculadora de estatística online: médias, desvio padrão, quartis e exportação de dados. `Next.js · TypeScript · Chart.js`
 
-4. **[Scanner de Vulnerabilidades XSS](https://github.com/LuisT-ls/Code-XSS)** — Scanner de vulnerabilidades XSS e SQL Injection, desenvolvido em Python.
+4. **[Interpreta Python](https://github.com/LuisT-ls/interpreta-python)** — Interpretador Python que executa código direto no navegador via Pyodide (WebAssembly).
 
 ## 📫 Vamos Conectar!
 
