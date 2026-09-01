@@ -56,10 +56,6 @@ Olá! Sou desenvolvedor full stack, atuando como MEI há mais de dois anos. Minh
   <img src="https://github-readme-stats-kappa.vercel.app/api/top-langs/?username=LuisT-ls&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="180px" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuisT-ls&theme=tokyo-night&hide_border=true&area=true&custom_title=Gráfico%20de%20Contribuições&height=250" width="100%" alt="Gráfico de Contribuições" />
-</div>
-
 ## 🌟 Projeto em Destaque
 
 <div align="center">
