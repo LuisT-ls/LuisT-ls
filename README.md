@@ -8,6 +8,7 @@
 
 ### 🟢 Disponível para novas oportunidades — Remoto / PJ / CLT
 
+[![Portfólio](https://img.shields.io/badge/🌐_Portfólio-6c5ce7?style=for-the-badge)](https://luistls.vercel.app)
 [![Currículo](https://img.shields.io/badge/📄_Baixar_Currículo-6c5ce7?style=for-the-badge)](https://github.com/LuisT-ls/LuisT-ls/raw/main/curriculo.pdf)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luist_ls@outlook.pt)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-tei/)
@@ -16,9 +17,9 @@
 
 ## 🚀 Sobre Mim
 
-Olá! Sou desenvolvedor full stack, atuando como MEI há mais de dois anos. Minha paixão está em combinar criatividade com tecnologia para desenvolver soluções inovadoras.
+Olá! Sou desenvolvedor full stack, cofundador e CTO da [HAO](https://historicoacademico.com.br) e pesquisador PIBIC na UFBA, com foco em cidades inteligentes inclusivas. Minha paixão está em combinar criatividade com tecnologia para desenvolver soluções inovadoras.
 
-🎓 **Formação**: Graduado em Ciência, Tecnologia e Inovação - UFBA
+🎓 **Formação**: Graduado com Honras em Ciência, Tecnologia e Inovação - UFBA
 💻 **Foco**: Desenvolvimento Web Full Stack (Next.js, TypeScript, Node.js)
 🎯 **Objetivo**: Construir produtos reais, do código à produção
 
